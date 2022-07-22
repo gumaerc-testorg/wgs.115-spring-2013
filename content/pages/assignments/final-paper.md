@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides instructions for a writing assignment on gender
+  and technology.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 586cd00f-2ba6-f0db-ce37-f83a3a2e4507
 title: Final Paper
 uid: 05416e54-4c39-df41-4a15-905d1aaec331
@@ -36,4 +42,4 @@ Question 3:
 
 Thinking about the definition of technology, establish what historically and stereotypically has counted as technology, and explain how the notion of "unskilled" labor fits into that definition, and why weaving and textiles have been excluded from traditional definitions. Explain the difference between a "feminine" technology and a "feminist" technology, giving examples of each, or arguing that a single technology might be viewed as either or both, in a particular context. What kind of considerations need to be taken into account to assess technologies intended for use primarily by women?
 
-[Return to Assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 586cd00f-2ba6-f0db-ce37-f83a3a2e4507 "Return to Assignments" %}}

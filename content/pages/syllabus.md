@@ -1,98 +1,67 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, required texts, grading, and the schedule
+  of lecture topics and key dates for the course.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bfeb8f7b-208f-beb5-0e7f-4f9e483283f8
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 1 session / week, 3 hours / session
 
-Course Description
-------------------
+## Course Description
 
 This course investigates the relevance of gender, race, class and sexuality to technology, as well as considering the ways in which technology itself is implicated in the production of these same identity categories. Examining the contemporary and historical use of technology, the development of new technologies, and the cultural representation of technology, we will consider a wide range of questions, including: What role have women played in the development of technology, and how has technological change affected the roles of women and ideas of gender? How does technology offer possibilities for new social relations and how should we evaluate these possibilities? What are the social implications of technology and how is it understood and deployed in different cultural contexts? What is the relationship of embodiment to technology?
 
-Prerequisites
--------------
+## Prerequisites
 
 None
 
-Course Objectives
------------------
+## Course Objectives
 
 Upon successful completion of this course, students will be able to do the following:
 
-*   Describe and analyze gendered associations with various forms of technologies.
-*   Explain the impact of gendered assumptions about the use of technology on the division of labor and women's work, both productive and reproductive.
-*   Explain the ways in which new medical technologies have sharpened and/or blurred sex/gender difference.
-*   Identify the promises and pitfalls of new technologies in terms of real, transformative outcomes—for women, for people of color, for the differently abled, and for people in the developing world.
-*   Evaluate utopian claims about technology in consideration of questions of access and the cultural diversity of lived experience.
-*   Apply a theoretical conceptualization of the cyborg to the contemporary use of mobile technologies and the perception of them as an extension of the self.
-*   Interrogate the relationship between power and technology, particularly as it applies to violence, war, and gender relations.
+- Describe and analyze gendered associations with various forms of technologies.
+- Explain the impact of gendered assumptions about the use of technology on the division of labor and women's work, both productive and reproductive.
+- Explain the ways in which new medical technologies have sharpened and/or blurred sex/gender difference.
+- Identify the promises and pitfalls of new technologies in terms of real, transformative outcomes—for women, for people of color, for the differently abled, and for people in the developing world.
+- Evaluate utopian claims about technology in consideration of questions of access and the cultural diversity of lived experience.
+- Apply a theoretical conceptualization of the cyborg to the contemporary use of mobile technologies and the perception of them as an extension of the self.
+- Interrogate the relationship between power and technology, particularly as it applies to violence, war, and gender relations.
 
-Required Texts
---------------
+## Required Texts
 
 Collins, Suzanne. _The Hunger Games._ Scholastic Press, 2013. ISBN: 9788184771695. \[Preview with [Google Books](http://books.google.com/books?id=CIFqbWcjfHEC&pg=PA9=onepage)\]
 
-Turkle, Sherry. _Alone Together__: Why We Expect More from Technology and Less from Each Other_. Basic Books, 2012. ISBN: 9780465031467.
+Turkle, Sherry. _Alone Together_: _Why We Expect More from Technology and Less from Each Other_. Basic Books, 2012. ISBN: 9780465031467.
 
-Grading
--------
+## Grading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Attendance and participation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Weekly discussion questions
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Critical response papers
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 40%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final paper/project
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30%
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Attendance and Participation
 
@@ -118,192 +87,98 @@ Please be sure that all assignments are word-processed, double-spaced documents 
 
 In order to receive a passing grade for this course, all assignments must be completed. Please talk to me in advance if you know you will have to miss class and/or need an extension on an assignment. It is preferable to negotiate an extension rather than be absent on a day a paper is due, as I will not accept late papers without prior notice.
 
-Calendar
---------
+## Calendar
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 KEY DATES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction: What is technology? How do we think about technology in relationship to history? What does a feminist analysis bring to technology studies?
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 History of Gendered Technology, Household Technologies
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest lecture & demonstration of the technology of textiles by MIT Professor Anne McCants
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Special Session
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Readings and Paper
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 First paper due
 
 This is not a class meeting, however, students are required to post discussion questions related to the readings on the course website.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Gender and Biomedical Technologies
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Surgical Interventions
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Library Session: Doing Research
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Reproductive Technologies
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Second paper due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Gender, Technology, and Representation of Indigenous Knowledge
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final project topic due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Ecofeminism, Technology and Development
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Surveillance, Cell Phones, and the Sex Trade
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Guest Speaker: [Mitali Thakor](http://www.mitalithakor.com/), Ph.D. student in MIT's History, Anthropology, and Science, Technology, & Society program, on technology and sex trafficking
 
 Draft of final paper due
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Alone Together
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Mobile Technology, Networks, and the "Connected Presence" of Gaming/Telephony
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Globalization & Technology of Militarization
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final paper due
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

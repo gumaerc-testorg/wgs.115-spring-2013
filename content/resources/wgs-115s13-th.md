@@ -16,10 +16,10 @@ image_metadata:
   image-alt: A photograph of a bus stop with a Svedka Vodka advertisement featuring
     Svedka_Girl, a fictional "spokesbot" with a feminine body.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: R. U. Bot or Not?
 uid: 3a9a575b-4b19-9457-013f-35f522694fce
 ---
 Svedka Vodka launched their "R. U. Bot or Not?" campaign in 2010. It features Svedka_Girl, a fictional robot resembling a woman. Svedka_Girl is a clearly gendered depiction of a robot, one of the technologies discussed in the course. (Photo courtesy of Thomas Hawk on Flickr. CC-BY-NC.)
-

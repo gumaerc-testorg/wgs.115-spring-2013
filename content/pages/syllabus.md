@@ -35,7 +35,7 @@ Upon successful completion of this course, students will be able to do the follo
 
 ## Required Texts
 
-Collins, Suzanne. _The Hunger Games._ Scholastic Press, 2013. ISBN: 9788184771695. \[Preview with [Google Books](http://books.google.com/books?id=CIFqbWcjfHEC&pg=PA9=onepage)\]
+Collins, Suzanne. _The Hunger Games._ Scholastic Press, 2013. ISBN: 9788184771695. \[Preview with {{% resource_link "02ec3302-536e-4208-964a-8f7c07dba9d7" "Google Books" %}}\]
 
 Turkle, Sherry. _Alone Together_: _Why We Expect More from Technology and Less from Each Other_. Basic Books, 2012. ISBN: 9780465031467.
 
@@ -159,7 +159,7 @@ Ecofeminism, Technology and Development
 Surveillance, Cell Phones, and the Sex Trade
 {{< tdclose >}}{{< tdopen >}}
 
-Guest Speaker: [Mitali Thakor](http://www.mitalithakor.com/), Ph.D. student in MIT's History, Anthropology, and Science, Technology, & Society program, on technology and sex trafficking
+Guest Speaker: {{% resource_link "2ff0fb25-b758-45a1-ac73-a3204b3b35e8" "Mitali Thakor" %}}, Ph.D. student in MIT's History, Anthropology, and Science, Technology, & Society program, on technology and sex trafficking
 
 Draft of final paper due
 

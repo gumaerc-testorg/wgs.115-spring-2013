@@ -28,11 +28,11 @@ History of Gendered Technology, Household Technologies
 
 Barber, Elizabeth Wayland. "Preface", "Introduction", and "A Tradition With a Reason." In _Women's Work: The First 20,000 Years Women, Cloth, and Society in Early Times_. Norton, 1994, pp. 11–41.
 
-Bray, Francesca. "[Gender and Technology](http://dx.doi.org/10.1146/annurev.anthro.36.081406.094328)." _Annual Reviews Anthropology_ 36 (2007): 37–53.
+Bray, Francesca. "{{% resource_link "58da311f-2eae-4a29-a7f6-171ae7b2a2b7" "Gender and Technology" %}}." _Annual Reviews Anthropology_ 36 (2007): 37–53.
 
-Wajcman, Judy. "[From Women and Technology to Gendered Technoscience](http://dx.doi.org/10.1080/13691180701409770)." _Information, Communication & Society_ 10, no. 3 (2007): 287–98.
+Wajcman, Judy. "{{% resource_link "6b773122-38ac-49d0-ade9-907f67ff3930" "From Women and Technology to Gendered Technoscience" %}}." _Information, Communication & Society_ 10, no. 3 (2007): 287–98.
 
-Cowan, Ruth Schwartz. "[The 'Industrial Revolution' in the Home: Household Technology and Social Change in the 20th Century](http://dx.doi.org/10.2307/3103251)." _Technology and Culture_ 17, no. 1 (1976): 1–23.
+Cowan, Ruth Schwartz. "{{% resource_link "5535934e-92ad-4ab4-8171-9633fb75fd96" "The 'Industrial Revolution' in the Home: Household Technology and Social Change in the 20th Century" %}}." _Technology and Culture_ 17, no. 1 (1976): 1–23.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Special Session
@@ -40,11 +40,11 @@ Special Session
 Readings and Paper
 {{< tdclose >}}{{< tdopen >}}
 
-Faulkner, Wendy. "[The Power and the Pleasure? A Research Agenda for 'Making Gender Stick' to Engineers](http://dx.doi.org/10.1177/016224390002500104)." _Science, Technology, & Human Values_ 25, no. 1 (2000): 87–119
+Faulkner, Wendy. "{{% resource_link "e4f2b131-eadf-4a6c-8459-621279750ded" "The Power and the Pleasure? A Research Agenda for 'Making Gender Stick' to Engineers" %}}." _Science, Technology, & Human Values_ 25, no. 1 (2000): 87–119
 
-Kelan, Elisabeth. "[Tools and Toys: Communicating gendered positions towards technology](http://dx.doi.org/10.1080/13691180701409960)." _Information, Communication & Society_ 10, no. 3 (2007): 358–83.
+Kelan, Elisabeth. "{{% resource_link "b0cabe74-ce20-401a-ad6d-ae492886062c" "Tools and Toys: Communicating gendered positions towards technology" %}}." _Information, Communication & Society_ 10, no. 3 (2007): 358–83.
 
-Wajcman, Judy. "The Feminization of Work in the Information Age." In _Women, Gender, and Technology_. Edited by Johnson, Fox and Rosser. University of Illinois Press, 2006, pp. 80–97. ISBN: 9780252073366. \[Preview with [Google Books](http://books.google.com/books?id=nf1E3EFqoXAC&printsec=frontcover)\]
+Wajcman, Judy. "The Feminization of Work in the Information Age." In _Women, Gender, and Technology_. Edited by Johnson, Fox and Rosser. University of Illinois Press, 2006, pp. 80–97. ISBN: 9780252073366. \[Preview with {{% resource_link "0e67dbfe-576f-4cb7-81c1-bfc7f918e354" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -56,11 +56,11 @@ Haraway, Donna. "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism
 
 Parens, Erik. "Thinking About Surgically Shaping Children." In _Surgically Shaping Children: Technology, Ethics, and the Pursuit of Normality_. Johns Hopkins University Press, 2008, pp. 23–30. ISBN: 9780801890901.
 
-Hausman, Bernice. "Introduction." In _Changing Sex: Transsexualism, Technology, and the Idea of Gender_. Duke University Press, 1995, pp. 1–19. ISBN: 9780822316923. \[Preview with [Google Books](http://books.google.com/books?id=7jYcktA6RhEC&pg=PA1#v=onepage)\]
+Hausman, Bernice. "Introduction." In _Changing Sex: Transsexualism, Technology, and the Idea of Gender_. Duke University Press, 1995, pp. 1–19. ISBN: 9780822316923. \[Preview with {{% resource_link "c003c0d0-53b2-470e-b56c-2dfaf7547e6e" "Google Books" %}}\]
 
 Turkle, Sherry. "Tinysex and Gender Trouble." In _Life on the Screen: Identity in the Age of the Internet_. Simon & Schuster, 1997, pp. 210–32. ISBN: 9780684833484.
 
-Dull, Diana, and Candace West. "[Accounting for Cosmetic Surgery: The Accomplishment of Gender](http://www.jstor.org/stable/800638)." _Social Problems_ 38, no. 1 (1991): 54–70.
+Dull, Diana, and Candace West. "{{% resource_link "6defc05a-2195-4388-a9aa-1a99c5505349" "Accounting for Cosmetic Surgery: The Accomplishment of Gender" %}}." _Social Problems_ 38, no. 1 (1991): 54–70.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -68,9 +68,9 @@ Dull, Diana, and Candace West. "[Accounting for Cosmetic Surgery: The Accomplish
 Surgical Interventions
 {{< tdclose >}}{{< tdopen >}}
 
-Sciolino, Elaine, and Souad Mekhennet. "[In Europe, Debate Over Islam and Virginity](http://www.nytimes.com/2008/06/11/world/europe/11virgin.html?pagewanted=all)," _New York Times_, June 11, 2008.
+Sciolino, Elaine, and Souad Mekhennet. "{{% resource_link "f195d3f4-5222-4601-be32-329fd9609ea2" "In Europe, Debate Over Islam and Virginity" %}}," _New York Times_, June 11, 2008.
 
-Dull, Diana, and Candace West. "[Accounting for Cosmetic Surgery: The Accomplishment of Gender](http://www.jstor.org/stable/800638)." _Social Problems_ 38, no. 1 (1991): 54–70.
+Dull, Diana, and Candace West. "{{% resource_link "6defc05a-2195-4388-a9aa-1a99c5505349" "Accounting for Cosmetic Surgery: The Accomplishment of Gender" %}}." _Social Problems_ 38, no. 1 (1991): 54–70.
 
 Bañales, Victoria. ""The Face Value of Dreams": Gender, Race, Class, and the Politics of Cosmetic Surgery." _Beyond the Frame: Women of Color and Visual Representation_. Edited by Neferti X. M. Tadiar and Angela Y. Davis. Palgrave Macmillan, 2005, pp. 131–52. ISBN: 9781403965332.
 
@@ -96,7 +96,7 @@ Reproductive Technologies
 
 ![Buy at MIT Press](/images/mp_logo.gif) Thompson, Charis. "Fertile Ground: Feminists Theorize Reproductive Technologies." In _Making Parents: The Ontological Choreography of Reproductive Technologies_. MIT Press, 2005, pp. 56–75. ISBN: 9780262201568.
 
-Murphy, Julien S. "Is Pregnancy Necessary?" In _Sex/Machine: Readings in Culture, Gender, and Technology_. Edited by Patrick D. Hopkins. Indiana University Press, 1998, pp. 184–200. ISBN: 9780253212306. \[Preview with [Google Books](http://books.google.com/books?id=vo5b6XA2F30C&pg=PA184#v=onepage)\]
+Murphy, Julien S. "Is Pregnancy Necessary?" In _Sex/Machine: Readings in Culture, Gender, and Technology_. Edited by Patrick D. Hopkins. Indiana University Press, 1998, pp. 184–200. ISBN: 9780253212306. \[Preview with {{% resource_link "bac529e7-b54e-44ac-9fb8-2552e9e17918" "Google Books" %}}\]
 
 Woodward, Kathleen. "From Virtual Cyborgs to Biological Time Bombs." In _Cybersexualities_. Edited by Wolmark. Edinburg University Press, 1999.
 
@@ -120,15 +120,15 @@ Collins, Suzanne. _The Hunger Games._ Scholastic Press, 2010. ISBN: 978818477169
 Ecofeminism, Technology and Development
 {{< tdclose >}}{{< tdopen >}}
 
-Wallis, Victor. "[Vision and Strategy: Questioning the Subsistence Perspective](http://dx.doi.org/10.1080/10455750601004475)." _Capitalism, Nature, Socialism_ 17, no. 4 (2006): 38–43.
+Wallis, Victor. "{{% resource_link "1db19760-83c8-4759-88cd-f8123332eca9" "Vision and Strategy: Questioning the Subsistence Perspective" %}}." _Capitalism, Nature, Socialism_ 17, no. 4 (2006): 38–43.
 
-Mies, Maria. "[Questioning Needs: A Rejoinder to Victor Wallis](http://dx.doi.org/10.1080/10455750601004483)." _Capitalism, Nature, Socialism_ 17, no. 4 (2006): 44–7.
+Mies, Maria. "{{% resource_link "18558126-3b3e-4f88-9f7b-b5b753df5ae9" "Questioning Needs: A Rejoinder to Victor Wallis" %}}." _Capitalism, Nature, Socialism_ 17, no. 4 (2006): 44–7.
 
-Mies, Maria, and Joel Kovel. "[An Interview with Maria Mies](http://dx.doi.org/10.1080/1045575042000287316)." _Capitalism, Nature, Socialism_ 15, no. 4 (2004): 41–51.
+Mies, Maria, and Joel Kovel. "{{% resource_link "abbba51b-200e-45d2-a94b-5323c18616b3" "An Interview with Maria Mies" %}}." _Capitalism, Nature, Socialism_ 15, no. 4 (2004): 41–51.
 
-Shiva, Vandana. "[Bioprospecting as Sophisticated Biopiracy](http://www.jstor.org/stable/10.1086/508502)." _Signs: Journal of Women in Culture and Society_ 32, no. 2 (2007): 323–31.
+Shiva, Vandana. "{{% resource_link "e6290a0b-9eed-40a2-9d4c-aff0b6512a89" "Bioprospecting as Sophisticated Biopiracy" %}}." _Signs: Journal of Women in Culture and Society_ 32, no. 2 (2007): 323–31.
 
-Isla, Ana. "[An Ecofeminist Perspective on Biopiracy in Latin America](http://www.jstor.org/stable/10.1086/508378)." _Signs: Journal of Women in Culture and Society_ 32, no. 2 (2007).
+Isla, Ana. "{{% resource_link "3ec2c47e-75aa-4dae-8617-529c8ef74c68" "An Ecofeminist Perspective on Biopiracy in Latin America" %}}." _Signs: Journal of Women in Culture and Society_ 32, no. 2 (2007).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -136,13 +136,13 @@ Isla, Ana. "[An Ecofeminist Perspective on Biopiracy in Latin America](http://ww
 Surveillance, Cell Phones, and the Sex Trade
 {{< tdclose >}}{{< tdopen >}}
 
-Andrijasevic, Rutvica. "[Beautiful Dead Bodies: Gender, Migration and Representation in Anti-Trafficking Campaigns](http://dx.doi.org/10.1057/palgrave.fr.9400355)." _Feminist Review_ 86 (2007): 24–44.
+Andrijasevic, Rutvica. "{{% resource_link "39a0ca9f-ef10-475e-aaba-b43b382644cc" "Beautiful Dead Bodies: Gender, Migration and Representation in Anti-Trafficking Campaigns" %}}." _Feminist Review_ 86 (2007): 24–44.
 
-Qu, Hong. "[Social Media and the Boston Bombings: When Citizens and Journalists Cover the Same Story](http://www.niemanlab.org/2013/04/social-media-and-the-boston-bombings-when-citizens-and-journalists-cover-the-same-story/)." _Nieman Journalism Lab_, April 17, 2013.
+Qu, Hong. "{{% resource_link "3773eb6b-755a-4aba-b3e6-8c2596031cae" "Social Media and the Boston Bombings: When Citizens and Journalists Cover the Same Story" %}}." _Nieman Journalism Lab_, April 17, 2013.
 
-Gray, Mitchell. "[Urban Surveillance and Panopticism: Will We Recognize the Facial Recognition Society?](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/3343)" _Surveillance & Society_ 1, no. 3 (2003): 314–30.
+Gray, Mitchell. "{{% resource_link "aa0a4760-f1f8-4c86-b80b-fb304c961247" "Urban Surveillance and Panopticism: Will We Recognize the Facial Recognition Society?" %}}" _Surveillance & Society_ 1, no. 3 (2003): 314–30.
 
-Hoffman, Jan. ["A Girl's Nude Photo, and Altered Lives](http://www.nytimes.com/2011/03/27/us/27sexting.html?pagewanted=all&_r=0)," _New York Times,_ March 26, 2011.
+Hoffman, Jan. {{% resource_link "543b4faa-73b0-491a-aadc-5d6458078746" "\"A Girl's Nude Photo, and Altered Lives" %}}," _New York Times,_ March 26, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -156,11 +156,11 @@ Turkle, Sherry. _Alone Together_: _Why We Expect More from Technology and Less f
 Mobile Technology, Networks, and the "Connected Presence" of Gaming/Telephony
 {{< tdclose >}}{{< tdopen >}}
 
-Ito, Mizuko. "[Intimate Visual Co-Presence." (PDF)](http://www.itofisher.com/mito/archives/ito.ubicomp05.pdf)
+Ito, Mizuko. "{{% resource_link "c06e2b06-88c4-4845-a9ad-d0bfcb066207" "Intimate Visual Co-Presence.\" (PDF)" %}}
 
-Licoppe, Christian. "[Connected' Presence: The Emergence of a New Repertoire for Managing Social Relationships in a Changing Communication Technoscape](http://dx.doi.org/10.1068/d323t)." _Environment and Planning D: Society and Space_ 22 (2004): 135–56.
+Licoppe, Christian. "{{% resource_link "6365a1d4-fd3c-455e-912f-877cccfed88e" "Connected' Presence: The Emergence of a New Repertoire for Managing Social Relationships in a Changing Communication Technoscape" %}}." _Environment and Planning D: Society and Space_ 22 (2004): 135–56.
 
-Schroeder, Ralph. "[Being There Together and the Future of Connected Presence](http://dx.doi.org/10.1162/pres.15.4.438)." _Presence_ 15, no. 4 (2006): 438–54.
+Schroeder, Ralph. "{{% resource_link "21f9ef86-e5a6-4a34-bebf-f18ee22d16f5" "Being There Together and the Future of Connected Presence" %}}." _Presence_ 15, no. 4 (2006): 438–54.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -168,7 +168,7 @@ Schroeder, Ralph. "[Being There Together and the Future of Connected Presence](h
 Globalization & Technology of Militarization
 {{< tdclose >}}{{< tdopen >}}
 
-Cohn, Carol. "[Sex and Death in the Rational World of Defense Intellectuals](http://links.jstor.org/sici?sici=0097-9740%28198722%2912%3A4%3C687%3ASADITR%3E2.0.CO%3B2-E)." _Signs: Journal of Women in Culture and Society_ 12, no. 4 (1987): 687–718.
+Cohn, Carol. "{{% resource_link "3dd7a312-5363-45e7-abb7-0bd9a4b1679a" "Sex and Death in the Rational World of Defense Intellectuals" %}}." _Signs: Journal of Women in Culture and Society_ 12, no. 4 (1987): 687–718.
 
 Enloe, Cynthia. Excerpt from _Maneuvers: The International Politics of Militarizing Women's Lives_. University of California Press, 2000. ISBN: 9780520220713.
 

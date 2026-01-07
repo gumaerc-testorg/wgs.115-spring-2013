@@ -20,15 +20,15 @@ RELATED LINKS
 Gender and Biomedical Technologies
 {{< tdclose >}}{{< tdopen >}}
 
-Kelly, Samantha Murphy. "{{% resource_link "63760d9c-fc83-4adb-9828-96aba25e975f" "This Dress Turns Clear When You're Turned On" %}}." *Mashable*, February 6, 2013.
+Kelly, Samantha Murphy. "[This Dress Turns Clear When You're Turned On](http://mashable.com/2013/02/06/transparent-dress/)." *Mashable*, February 6, 2013.
 
-Gerhardt, Ryan. "{{% resource_link "3b9dd6ac-1cd0-4715-8578-efaa4961af81" "Touchscreen T-Shirts Only a Few Years Away" %}}." *Mashable*, February 15, 2013.
+Gerhardt, Ryan. "[Touchscreen T-Shirts Only a Few Years Away](http://mashable.com/2013/02/15/armour39/)." *Mashable*, February 15, 2013.
 
-Kleinman, Alexis. "{{% resource_link "dcba30de-0943-4212-a87a-4021effa9846" "Sergey Brin Says Using A Smartphone Is ‘Emasculating' In Push For Google Glass" %}}." *Huffington Post*, February 27, 2013.
+Kleinman, Alexis. "[Sergey Brin Says Using A Smartphone Is ‘Emasculating' In Push For Google Glass](http://www.huffingtonpost.com/2013/02/27/sergey-brin-emasculating_n_2776389.html?utm_hp_ref=tw)." *Huffington Post*, February 27, 2013.
 
-Piltch, Avram. "{{% resource_link "a71286c1-52d6-4bf4-8cf2-ebe87030aa34" "Exclusive: Cyborg Steve Mann Details Alleged McDonald's Assault" %}}." *Laptop*, July 17, 2012.
+Piltch, Avram. "[Exclusive: Cyborg Steve Mann Details Alleged McDonald's Assault](http://blog.laptopmag.com/exclusive-cyborg-steve-mann-on-alleged-mcdonalds-assault)." *Laptop*, July 17, 2012.
 
-Harbisson, Neil. "{{% resource_link "83996189-65fb-470e-8f49-42b7635af5a5" "I Listen To Color" %}}." TED Talk. Filmed in June, 2012, posted in July, 2012.
+Harbisson, Neil. "[I Listen To Color](http://www.ted.com/talks/neil_harbisson_i_listen_to_color.html)." TED Talk. Filmed in June, 2012, posted in July, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -36,13 +36,13 @@ Harbisson, Neil. "{{% resource_link "83996189-65fb-470e-8f49-42b7635af5a5" "I Li
 Surgical Interventions
 {{< tdclose >}}{{< tdopen >}}
 
-Chloe. "{{% resource_link "25def92c-5c6d-44a3-93ab-07356e3484ec" "Ellen Degeneres Endorses Bic for Her Pens" %}}." *Feministing*, October 15, 2012.
+Chloe. "[Ellen Degeneres Endorses Bic for Her Pens](http://feministing.com/2012/10/15/ellen-degeneres-endorses-bic-for-her-pens/)." *Feministing*, October 15, 2012.
 
 Blakely, Sara. "Welcome to Spanx.com from SPANX Founder Sara Blakely." Spanx.com.
 
-Insteadinc. "Why I Love Softcup®." April 26, 2011. Youtube. Accessed September 16, 2013. {{% resource_link "a1bdcfc2-1ea9-4113-b277-e4262febafac" "http://www.youtube.com/watch?v=CcOmx0nFxak" %}}
+Insteadinc. "Why I Love Softcup®." April 26, 2011. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=CcOmx0nFxak](http://www.youtube.com/watch?v=CcOmx0nFxak)
 
-"{{% resource_link "e8f41914-c348-41a4-a3d6-f1c0a7366ce6" "Spanx for Men" %}}." Spanx.com.
+"[Spanx for Men](http://www.spanx.com/mens-shapewear)." Spanx.com.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -50,33 +50,33 @@ Insteadinc. "Why I Love Softcup®." April 26, 2011. Youtube. Accessed September 
 Surveillance, Cell Phones, and the Sex Trade
 {{< tdclose >}}{{< tdopen >}}
 
-Wood, Molly. "{{% resource_link "043fb802-c4ba-4e6b-b98a-9745f361206c" "Social media as Breaking-News Feed: Worse Information, Faster" %}}." *CNET*, April 19, 2013.
+Wood, Molly. "[Social media as Breaking-News Feed: Worse Information, Faster](http://news.cnet.com/8301-31322_3-57580464-256/social-media-as-breaking-news-feed-worse-information-faster/)." *CNET*, April 19, 2013.
 
-Associated Press. "{{% resource_link "8c74716d-5380-4742-a1f9-e3a1f624331d" "Teen Stunned at Portrayal as Boston Bombing Suspect" %}}." *CBS News*, April 18, 2013.
+Associated Press. "[Teen Stunned at Portrayal as Boston Bombing Suspect](https://www.staradvertiser.com/2013/04/18/breaking-news/teen-stunned-at-portrayal-as-possible-bombing-suspect-in-n-y-post/)." *CBS News*, April 18, 2013.
 
-Chittum, Ryan. "{{% resource_link "22c83355-d222-452a-86b9-c5ca395423ae" "The New York Post's Disgrace" %}}." *Columbia Journalism Review*, April 19, 2013.
+Chittum, Ryan. "[The New York Post's Disgrace](http://www.cjr.org/the_audit/the_new_york_posts_disgrace.php)." *Columbia Journalism Review*, April 19, 2013.
 
-{{% resource_link "f0ab8615-1d42-4fd0-84a6-1ceb6384b7c5" "Binders Full Of Women" %}}. Facebook.
+[Binders Full Of Women](https://www.facebook.com/BindersFullofWomen/). Facebook.
 
-{{% resource_link "aa357f81-6a74-4e0c-9869-d2c102cd3ea5" "Help Us Find Sunil Tripathi" %}}. Facebook.
+[Help Us Find Sunil Tripathi](https://www.facebook.com/pages/Help-Us-Find-Sunil-Tripathi/403275636436466). Facebook.
 
-Linkins, Jason. "{{% resource_link "a7f45a06-a965-4918-9d0e-d4d630256f88" "Reddit Moderator Apologizes to Sunil Tripathi's Family" %}}." *Huffington Post*, April 19, 2013.
+Linkins, Jason. "[Reddit Moderator Apologizes to Sunil Tripathi's Family](http://www.huffingtonpost.com/2013/04/19/reddit-sunil-tripathi-apologize_n_3117051.html)." *Huffington Post*, April 19, 2013.
 
-McCullagh, Declan. "{{% resource_link "2ed09e89-e728-4063-807a-fbb093e3c958" "CISPA Permits Police to Do Warrantless Database Searches" %}}." *CNET*, April 18, 2013.
+McCullagh, Declan. "[CISPA Permits Police to Do Warrantless Database Searches](http://news.cnet.com/8301-13578_3-57580268-38/cispa-permits-police-to-do-warrantless-database-searches/)." *CNET*, April 18, 2013.
 
-Gates, Sara. "{{% resource_link "913ae669-26dc-4705-80e0-90c7e8a858e5" "CISPA Amendment Banning Employers From Asking For Facebook Passwords Blocked" %}}." *Huffington Post*, April 21, 2013.
+Gates, Sara. "[CISPA Amendment Banning Employers From Asking For Facebook Passwords Blocked](http://www.huffingtonpost.com/2013/04/21/cispa-amendment-facebook-passwords-blocked_n_3128507.html)." *Huffington Post*, April 21, 2013.
 
-"{{% resource_link "d2b79b27-41b5-4928-b908-c14c984d24c3" "Everything You Need to Know about CISPA (VIDEO)" %}}." *Huffington Post*, September 16, 2013. (Video only available in the U.S.)
+"[Everything You Need to Know about CISPA (VIDEO)](http://videos.huffingtonpost.com/everything-you-need-to-know-about-cispa-517355277)." *Huffington Post*, September 16, 2013. (Video only available in the U.S.)
 
-AbbyMediaRoots. "What is Genetically Modified Food?" December 16, 2009. Youtube. Accessed September 16, 2016. {{% resource_link "7ee421a2-1a72-4eb1-bc73-7b714eecd21a" "http://www.youtube.com/watch?v=jAP6ZtfP9ZQ" %}}
+AbbyMediaRoots. "What is Genetically Modified Food?" December 16, 2009. Youtube. Accessed September 16, 2016. [http://www.youtube.com/watch?v=jAP6ZtfP9ZQ](http://www.youtube.com/watch?v=jAP6ZtfP9ZQ)
 
-chrischiz. "NEEM – A Tree For Solving Global Problems." January 4, 2008. Youtube. Accessed September 16, 2013. {{% resource_link "b7324a6e-b958-4fb3-b904-e43cbf9af86e" "https://www.youtube.com/watch?v=1vWL0gixKpc" %}}
+chrischiz. "NEEM – A Tree For Solving Global Problems." January 4, 2008. Youtube. Accessed September 16, 2013. [https://www.youtube.com/watch?v=1vWL0gixKpc](https://www.youtube.com/watch?v=1vWL0gixKpc)
 
-EcoWALKthetalk. "VANDANA SHIVA: Traditional Knowledge, Biodiversity and Sustainable Living." March 29, 2011. YouTube. Accessed September 16, 2013. {{% resource_link "498835e3-2da9-4c55-a88a-c8986cfff99d" "http://www.youtube.com/watch?v=d9K0cZGQgHA" %}}
+EcoWALKthetalk. "VANDANA SHIVA: Traditional Knowledge, Biodiversity and Sustainable Living." March 29, 2011. YouTube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=d9K0cZGQgHA](http://www.youtube.com/watch?v=d9K0cZGQgHA)
 
-NaturalJusticeVideos. "Rooibos Robbery: A Story of Bioprospecting in South Africa." March 16, 2012. Youtube. Accessed September 16, 2013. {{% resource_link "15d7a20c-e423-4e3c-ab11-6d9d65be66e7" "http://www.youtube.com/watch?v=GH5JF-n-rnA" %}}
+NaturalJusticeVideos. "Rooibos Robbery: A Story of Bioprospecting in South Africa." March 16, 2012. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=GH5JF-n-rnA](http://www.youtube.com/watch?v=GH5JF-n-rnA)
 
-GlobalResearchTV. "Open Seeds: Biopiracy and the Patenting of Life." February 15, 2012. Youtube. Accessed September 16, 2013. {{% resource_link "31de97fc-d42a-4e27-991c-a25b57393434" "http://www.youtube.com/watch?v=tPMd4u1MCDg" %}}
+GlobalResearchTV. "Open Seeds: Biopiracy and the Patenting of Life." February 15, 2012. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=tPMd4u1MCDg](http://www.youtube.com/watch?v=tPMd4u1MCDg)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -84,37 +84,37 @@ GlobalResearchTV. "Open Seeds: Biopiracy and the Patenting of Life." February 15
 Alone Together
 {{< tdclose >}}{{< tdopen >}}
 
-Hftinman. "Tamagotchi." February 26. 2007. Youtube. Accessed September 16, 2013. {{% resource_link "fa7ffba2-87ba-467e-b9bb-d8b3eea8782c" "http://www.youtube.com/watch?v=UrMTKe9oChk" %}}
+Hftinman. "Tamagotchi." February 26. 2007. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=UrMTKe9oChk](http://www.youtube.com/watch?v=UrMTKe9oChk)
 
-CNETTV. "Furby is back!" July 6, 2012. Youtube. Accessed September 16, 2013. {{% resource_link "11fccc36-5d9c-451a-8599-612b32eb58b8" "http://www.youtube.com/watch?v=650XF8seUmM" %}}
+CNETTV. "Furby is back!" July 6, 2012. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=650XF8seUmM](http://www.youtube.com/watch?v=650XF8seUmM)
 
-awarehead. "Siri VS Furby." October 19, 2011. Youtube. Accessed September 16, 2013. {{% resource_link "2d325407-320e-413c-95f4-852b74b94067" "http://www.youtube.com/watch?v=18UmoIu8lII" %}}
+awarehead. "Siri VS Furby." October 19, 2011. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=18UmoIu8lII](http://www.youtube.com/watch?v=18UmoIu8lII)
 
-terrorific. "Paro Robotic Seal from Japan." July 11, 2007. Youtube. Accessed September 16, 2013. {{% resource_link "5166a430-3137-405b-8aea-8213ad4f2791" "https://www.youtube.com/watch?v=oJq5PQZHU-I" %}}
+terrorific. "Paro Robotic Seal from Japan." July 11, 2007. Youtube. Accessed September 16, 2013. [https://www.youtube.com/watch?v=oJq5PQZHU-I](https://www.youtube.com/watch?v=oJq5PQZHU-I)
 
-psicodelicopsicopata. "Paro Baby Seal." May 17, 2007. Youtube. Accessed September 16, 2013. {{% resource_link "c8fd9b32-a3f7-406b-b15d-409f4aa47950" "http://www.youtube.com/watch?v=3npV-npZkxI" %}}
+psicodelicopsicopata. "Paro Baby Seal." May 17, 2007. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=3npV-npZkxI](http://www.youtube.com/watch?v=3npV-npZkxI)
 
-NTDTV. "Robotic Seals Help Heal Japan’s Elderly Tsunami Victims." September 26, 2011. Youtube. Accessed September 16, 2013. {{% resource_link "c59218cf-7dfe-4677-91a7-0b99d8313a6d" "https://www.youtube.com/watch?v=zv9LoiFMUok" %}}
+NTDTV. "Robotic Seals Help Heal Japan’s Elderly Tsunami Victims." September 26, 2011. Youtube. Accessed September 16, 2013. [https://www.youtube.com/watch?v=zv9LoiFMUok](https://www.youtube.com/watch?v=zv9LoiFMUok)
 
-Trevor Spiro. "AIBO robot playing with a cat!" June 3, 2006. Youtube. Accessed September 16, 2013. {{% resource_link "330598f9-8690-4ae2-8a7e-ec27569222ca" "http://www.youtube.com/watch?v=NKAeihiy5Ck" %}}
+Trevor Spiro. "AIBO robot playing with a cat!" June 3, 2006. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=NKAeihiy5Ck](http://www.youtube.com/watch?v=NKAeihiy5Ck)
 
-Carolinesushi. "Baby Alive How to play with My Real Baby♥ \[HD\]." April 6, 2011. Youtube. Accessed September 16, 2013. {{% resource_link "068201c6-171c-4874-ba3f-a9dc7d86c846" "http://www.youtube.com/watch?v=iXHdgj9xNzc" %}}
+Carolinesushi. "Baby Alive How to play with My Real Baby♥ \[HD\]." April 6, 2011. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=iXHdgj9xNzc](http://www.youtube.com/watch?v=iXHdgj9xNzc)
 
-HKTOYSRUS. "My Real Baby BB小麗-精乖寶寶." October 19. 2010. Youtube. Accessed September 16, 2013. {{% resource_link "cd5988d0-9a32-4324-ae23-d9c9d631bacd" "http://www.youtube.com/watch?v=7dv4IOWyf6w" %}}
+HKTOYSRUS. "My Real Baby BB小麗-精乖寶寶." October 19. 2010. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=7dv4IOWyf6w](http://www.youtube.com/watch?v=7dv4IOWyf6w)
 
-Plastic Pals. "Kismet (MIT A.I. Lab)." September 7, 2011. Youtube. Accessed September 16, 2013. {{% resource_link "c05f6030-6b64-458a-aab9-7d8c0fcf181f" "http://www.youtube.com/watch?v=8KRZX5KL4fA" %}}
+Plastic Pals. "Kismet (MIT A.I. Lab)." September 7, 2011. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=8KRZX5KL4fA](http://www.youtube.com/watch?v=8KRZX5KL4fA)
 
-TED. "Cynthia Breazeal: The rise of personal robots." February 8, 2011. Youtube. Accessed September 16, 2013. {{% resource_link "6d405932-4b13-424a-9f3d-2e633610a194" "http://www.youtube.com/watch?v=eAnHjuTQF3M" %}}
+TED. "Cynthia Breazeal: The rise of personal robots." February 8, 2011. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=eAnHjuTQF3M](http://www.youtube.com/watch?v=eAnHjuTQF3M)
 
-Hornyak, Tim. "{{% resource_link "521d7128-3804-4c8f-a54d-4b06744491b6" "Can’t stick to that diet? Get a robot coach" %}}." *CNET*, April 28, 2010.
+Hornyak, Tim. "[Can’t stick to that diet? Get a robot coach](https://www.cnet.com/news/cant-stick-to-that-diet-get-a-robot-coach/)." *CNET*, April 28, 2010.
 
-theindependent. "Atom – a robotic health coach." September 22, 2009. Youtube. Accessed September 16, 2013. {{% resource_link "2175362a-b28c-4579-8bae-e4d3777d2033" "http://www.youtube.com/watch?v=M6fSSWFShhM" %}}
+theindependent. "Atom – a robotic health coach." September 22, 2009. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=M6fSSWFShhM](http://www.youtube.com/watch?v=M6fSSWFShhM)
 
-emseebristol. "Leonardo Robot – isn’t this the cutest robot ever?" December 21, 2008. Youtube. Accessed September 16, 2013. {{% resource_link "d473948e-aba8-426c-9303-c04f8b1a309c" "http://www.youtube.com/watch?v=ilmDN2e_Flc" %}}
+emseebristol. "Leonardo Robot – isn’t this the cutest robot ever?" December 21, 2008. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=ilmDN2e_Flc](http://www.youtube.com/watch?v=ilmDN2e_Flc)
 
-{{% resource_link "7c65bc91-5816-4e6c-8bd8-99cb8812c08e" "Postsecret" %}}.
+[Postsecret](http://www.postsecret.com/).
 
-{{% resource_link "c8bbfd54-58f3-4602-a883-e6e13973dbde" "Dear Jane Doe" %}}.
+[Dear Jane Doe](http://webelieveyou.tumblr.com/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -122,14 +122,14 @@ emseebristol. "Leonardo Robot – isn’t this the cutest robot ever?" December 
 Mobile Technology, Networks, and the "Connected Presence" of Gaming/Telephony
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "61b969d8-950a-4650-83b4-123349511817" "The \"skype sleep\" tag on Tumblr" %}}.
+[The "skype sleep" tag on Tumblr](http://www.tumblr.com/tagged/skype-sleep).
 
-Mindy. "Webcam 101 for Seniors." August 21, 2011. Youtube. Accessed September 16, 2013. {{% resource_link "7d0913e7-f7b1-486a-aa21-8b2ea3d7c67f" "http://www.youtube.com/watch?v=FcN08Tg3PWw" %}}
+Mindy. "Webcam 101 for Seniors." August 21, 2011. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=FcN08Tg3PWw](http://www.youtube.com/watch?v=FcN08Tg3PWw)
 
-WatchTheDaily. "Granny Tech: How to use FaceTime." November 20, 2012. Youtube. Accessed September 16, 2013. {{% resource_link "ecf273ad-1cee-4061-8c99-66a681b0a5e3" "http://www.youtube.com/watch?v=lwFCB9AFSH4" %}}
+WatchTheDaily. "Granny Tech: How to use FaceTime." November 20, 2012. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=lwFCB9AFSH4](http://www.youtube.com/watch?v=lwFCB9AFSH4)
 
-cmMerlin. "Augmented Reality by Hitlab." March 28, 2007. Youtube. Accessed September 16, 2013. {{% resource_link "dfbb85b8-40b5-437b-8dcb-1b715d2f40ca" "http://www.youtube.com/watch?v=ZKw_Mp5YkaE&list=PL64584AC6FD1EE047&index=2" %}}
+cmMerlin. "Augmented Reality by Hitlab." March 28, 2007. Youtube. Accessed September 16, 2013. [http://www.youtube.com/watch?v=ZKw_Mp5YkaE&list=PL64584AC6FD1EE047&index=2](http://www.youtube.com/watch?v=ZKw_Mp5YkaE&list=PL64584AC6FD1EE047&index=2)
 
-{{% resource_link "aa7c14f4-ef6e-4975-90b5-c8e25fef54d4" "SixthSense" %}}, a wearable gestural interface from the MIT Media Lab.
+[SixthSense](https://www.media.mit.edu/publications/sixthsense-a-wearable-gestural-interface-2/), a wearable gestural interface from the MIT Media Lab.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
